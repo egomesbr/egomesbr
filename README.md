@@ -80,19 +80,6 @@
 
 ---
 
-## 📫 Contato
-
-<div align="center">
-  <a href="mailto:eddienit@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <sub>⭐ Feito com dedicação por Edward Gomes</sub>
 </div>
