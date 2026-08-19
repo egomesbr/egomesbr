@@ -62,8 +62,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=egomesbr&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b26" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egomesbr&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b26" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=egomesbr&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b26" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egomesbr&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b26" alt="Linguagens mais usadas" />
 </div>
 
 ---
