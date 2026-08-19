@@ -62,8 +62,10 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=egomesbr&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b26" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egomesbr&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b26" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egomesbr&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egomesbr&theme=tokyonight" alt="Linguagens mais usadas" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=egomesbr&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b26" alt="Sequência de contribuições" />
 </div>
 
 ---
